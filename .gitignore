@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+finctrl.db
+test_finctrl.db
+.pytest_cache/
+*.log
+data/synthetic/*.json
+!data/synthetic/.gitkeep
